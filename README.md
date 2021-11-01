@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahenyaa&label=Profile%20views&color=0e75b6&style=flat" alt="kahenyaa" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/kahenyaa" target="blank"><img src="https://img.shields.io/twitter/follow/kahenyaa?logo=twitter&style=for-the-badge" alt="kahenyaa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/K4H3NY4" target="blank"><img src="https://img.shields.io/twitter/follow/kahenyaa?logo=twitter&style=for-the-badge" alt="kahenyaa" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [kahenyaa.netlify.app](kahenyaa.netlify.app)
 
