@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Kahenya</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+<h3 align="center">K4H3NY4 on the code, so its not buddy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=K4H3NY4&label=Profile%20views&color=0e75b6&style=flat" alt="K4H3NY4" /> </p>
 
