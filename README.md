@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/K4H3NY4" target="blank"><img src="https://img.shields.io/twitter/follow/K4H3NY4?logo=twitter&style=for-the-badge" alt="K4H3NY4" /></a> </p>
 
-- 👨‍💻 A few of my projects are available at **kahenyaa.netlify.app** <a href=" https://kahenyaa.netlify.app/" />
+- 👨‍💻 A few of my projects are available at <a href=" https://kahenyaa.netlify.app/" /> **kahenyaa.netlify.app**</a>
 
 - 📫 How to reach me **kahenyaa@gmail.com**
 
